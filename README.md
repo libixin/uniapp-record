@@ -1,4 +1,5 @@
 # uniapp-test
 知识点汇总
 
-#work record
+## work record
+ios获取wifi路由ip
